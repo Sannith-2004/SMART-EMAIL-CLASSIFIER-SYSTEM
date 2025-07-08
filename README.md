@@ -1,1 +1,1 @@
-# SMART-EMAIL-CLASSIFIER-SYSTEM
+This project is a Smart Email Classifier System that uses machine learning to automatically categorize emails as spam or ham. It involves basic text preprocessing, TF-IDF feature extraction, and a Naive Bayes classifier for prediction. The system is modular, with separate files for loading data, preprocessing, training, and prediction. It outputs classification results along with confidence scores. A sample dataset is used to demonstrate the model workflow. The code is lightweight, readable, and easy to adapt to other datasets.
